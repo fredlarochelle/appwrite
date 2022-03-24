@@ -1,0 +1,6 @@
+[submodule "src/Appwrite/Auth/WebAuthn/src/Appwrite/Auth/WebAuthn"]
+	path = src/Appwrite/Auth/WebAuthn/src/Appwrite/Auth/WebAuthn
+	url = https://github.com/lbuchs/WebAuthn.git
+[submodule "src/Appwrite/Auth/WebAuthn/WebAuthn"]
+	path = src/Appwrite/Auth/WebAuthn/WebAuthn
+	url = https://github.com/lbuchs/WebAuthn.git
